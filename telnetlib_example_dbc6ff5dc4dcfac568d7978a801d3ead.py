@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# this script is from the network attacks cryptohack 
 import telnetlib
 import json
 
